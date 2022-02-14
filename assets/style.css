@@ -107,8 +107,9 @@ html{
      display: flex;
 }
 #pic img{
-     width: 575px;
-     height: 400px;
+     width: 500px;
+     height: 500px;
+     margin-bottom: 20px;
 }
 #intro{
      display: flex;
