@@ -23,5 +23,5 @@ For the contact box portion:
 My tutor showed me and API that I can add that takes the entered information and sends it to my email. This is perfect since I don’t want my information displayed and prefer having more of a filter.
 ![](formsubmit.png)
 
-[DeployedCodeQuizApplication](https://taylor25et.github.io/Updated_Portfolio_Page/)
-[DeployedCodeQuizRepository](https://github.com/Taylor25et/Updated_Portfolio_Page)
+[DeployedUpdatedPortfolio](https://taylor25et.github.io/Updated_Portfolio_Page/)
+[DeployedUpdatedPortfolio](https://github.com/Taylor25et/Updated_Portfolio_Page)
