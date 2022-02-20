@@ -208,16 +208,14 @@ html{
 #contact{
     display: flex;
     flex-direction: column;
-    box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0.9);
     color: white;
 }
 .form{
     display: flex;
     flex-direction: column;
-    box-sizing: border-box;
     align-items: center;
-    margin: 20px 0px;
+    margin: 30px 50px;
 }
 .form-group{
     width: 100%;
