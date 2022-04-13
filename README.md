@@ -1,28 +1,38 @@
-# Updated_Portfolio_Page
+# Updated_Portfolio_Page 
+![gitHubLicense](https://img.shields.io/badge/License-MIT-green.svg)
+
+
+## Description
 Welcome to my updated portfolio!
 
-Task Objectives
-* Updated portfolio featuring Project 1 and two exemplary homework assignments.
-* Updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-* Updated resume
-* Updated LinkedIn profile
+## Table of Contents
 
-Special Note: Our teacher said that we did not have to link our updated LinkedIn if it would cause problems at work. If my company thought I was trying to leave the company this would cause issues for me. Please check with Brian before subtracting points.
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-Also, I only have the project and HW 4 done so I do not have a second assignment to link. I’ll be working on HW 5 this week and will go ahead and link it once it is completed.
-
-Process for Updating my Page:
-Now that I have more coding experience, I was able to fill out more of my page and add some languages that I have learned and some that I hope to learn. I also updated my portfolio section with the assignments we have completed and added a link to my GitHub page and my Resume. 
-
-Please note that in class this week we are revamping our resumes so mine will get updated once that is finished. My contact info isn’t displayed just because I have a box where people can message me if they want to connect. More on this later. This is a stylistic choice, not something that was left out.
-![](./assets/pictures/aboutme.png)
-
-I am taking this class in order to transfer to the software development team where I currently work. Our developers only do back-end work which is why my profile is geared towards that audience. I also made it so that the services that I offer fit more in line with what I know our managers are looking for. In class we are only just starting the back-end portion of our class so there will be more to put here eventually.
-
-For the contact box portion:
-My tutor showed me and API that I can add that takes the entered information and sends it to my email. This is perfect since I don’t want my information displayed and prefer having more of a filter.
+## Installation 
+No installation required
+## Usage
+Greetings! I am an aspiring software developer currently attending class at the University of Washington. Now that I have more coding experience, I was able to fill out more of my page and add some languages that I have learned and some that I hope to learn. I also updated my portfolio section with the assignments we have completed and added a link to my GitHub page and my Resume. 
 ![](./assets/pictures/formsubmit.png)
+## License
+This project is covered under the MIT license. 
+![gitHubLicense](https://img.shields.io/badge/License-MIT-green.svg)
+## Contributing
+University of Washington Coding Camp
+## Tests
+n/a
+## Questions
+Please feel free to contact me with any questions or suggestions either on my GitHub account or via email.
+* GitHub: https://github.com/Taylor25et
+* E-Mail: taylor25et@gmail.com
+
+
 
 [DeployedUpdatedPortfolio](https://taylor25et.github.io/Updated_Portfolio_Page/)
 
-[DeployedUpdatedPortfolio](https://github.com/Taylor25et/Updated_Portfolio_Page)
+[GitHubRepo](https://github.com/Taylor25et/Updated_Portfolio_Page)
