@@ -3,7 +3,8 @@
 
 
 ## Description
-Welcome to my updated portfolio!
+Welcome to my updated portfolio!<br>
+![](./assets/pictures/avatar.jpg)
 
 ## Table of Contents
 
@@ -23,7 +24,7 @@ Greetings! I am an aspiring software developer currently attending class at the 
 This project is covered under the MIT license. 
 ![gitHubLicense](https://img.shields.io/badge/License-MIT-green.svg)
 ## Contributing
-University of Washington Coding Camp
+This project would not have been possible without the contributions credited in the links below. <br>[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) <br>  [Inquirer Package](https://www.npmjs.com/package/inquirer)
 ## Tests
 n/a
 ## Questions
