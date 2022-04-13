@@ -26,7 +26,33 @@
     <section id="home">
         <div class="main">
             <h1 class="headings">TAYLOR THOMPSON <br> DIGITAL PORTFOLIO</h1>
-                <button class="btn">Hire me</button>
+                <button id="myBtn" class="btn">Hire me</button>
+                <div id="myModal" class="modal">
+
+                    <!-- Modal content -->
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p>Contact Me</p>
+                        <div class="form">
+                            <form target="_blank" action="https://formsubmit.co/taylor25et@gmail.com" method="POST">
+                              <div class="form-group">
+                                <div class="form-row">
+                                  <div class="col">
+                                    <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+                                  </div>
+                                  <div class="col">
+                                    <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="form-group">
+                                <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+                              </div>
+                              <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+                            </form>
+                          </div>
+                        </div>
+                  </div>
         </div>
     </section>
     <section id="about">
